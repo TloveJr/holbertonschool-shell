@@ -1,2 +1,2 @@
 #!/bin/bash
-drwxr
+ls -a
